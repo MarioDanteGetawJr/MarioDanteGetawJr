@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Mario, but I go by my middle name, Dante, and I am a soon to be Computer Science graduate from Wittenberg University interested in all things IT! When I am not working or learning about IT, I can be found watching or playing football, basketball, and golf. I am a former College Football player at Wittenberg. 
+My name is Mario, but I go by my middle name, Dante, and I am a soon to be Computer Science graduate from Wittenberg University interested in all things IT! When I am not working or learning about IT, I can be found watching or playing football, basketball, and golf.
   
 - 🔭 I’m currently working on a password manager application with two other senior Computer Science students at my school, check out the current progress [here](https://github.com/MarioDanteGetawJr/Senior-Capstone---Password-Manager)
 - 🌱 I have recently completed an assortment of Machine Learning projects using Python, check them out [here](https://github.com/MarioDanteGetawJr/Machine-Learning-Projects)
