@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Mario, but I go by my middle name, Dante. I just graduated with a Bachelor of Arts in Computer Science from Wittenberg University, and I am interested in all things IT! When I am not working or learning about IT, I am lifting weights, watching, or playing football, basketball, and golf.
+My name is Mario, but I go by my middle name, Dante. I am a recent Computer Science graduate from Wittenberg University, and I am interested in all things IT! Currently, I am a Helpdesk Technician for TEKsystems. When I am not working or learning about IT, I am lifting weights, watching, or playing football, basketball, and golf.
 
 - ⚡ Currently, I am using Windows Server 2022 on VMware to build Active Directory in a virtual environment, and practice doing things like creating users, groups, access control requests, OU organization, imaging, scripting, remote login, GPO setup and misfires, and more! Check out the progress [here](https://github.com/MarioDanteGetawJr/IT-Helpdesk-Level-1-Lab) 
 - 🔭 I recently just completed my senior capstone project with two other Computer Science Students - a Password Manager Application using Python, check it out [here](https://github.com/MarioDanteGetawJr/Senior-Capstone---Password-Manager)
