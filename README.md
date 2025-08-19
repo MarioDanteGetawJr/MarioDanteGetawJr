@@ -5,8 +5,7 @@ My name is Mario, but I go by my middle name, Dante. I am a recent Computer Scie
 - ⚡ Currently, I am using Windows Server 2022 on VMware to build Active Directory in a virtual environment, and practice doing things like creating users, groups, access control requests, OU organization, imaging, scripting, remote login, GPO setup and misfires, and more! Check out the progress [here](https://github.com/MarioDanteGetawJr/IT-Helpdesk-Level-1-Lab) 
 - 🔭 I recently just completed my senior capstone project with two other Computer Science Students - a Password Manager Application using Python, check it out [here](https://github.com/MarioDanteGetawJr/Senior-Capstone---Password-Manager)
 - 🌱 I have completed an assortment of Machine Learning projects using Python, check them out [here](https://github.com/MarioDanteGetawJr/Machine-Learning-Projects)
-- 👯 I am currently searching for a job in the IT field back home in the Detroit area (or remote work)
-    - 📫 Connect with me on LinkedIn @ https://www.linkedin.com/in/mario-getaw-jr/ or contact me directly @mariogetawjr@outlook.com
+- 📫 Connect with me on LinkedIn @ https://www.linkedin.com/in/mario-getaw-jr/ or contact me directly @mariogetawjr@outlook.com
 
 <!--
 **MarioDanteGetawJr/MarioDanteGetawJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
